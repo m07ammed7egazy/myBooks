@@ -1,0 +1,27 @@
+/* the comment */
+body {
+    background-color: darksalmon;
+    background-image: url(../images/background.jpg);
+    background-repeat: round;
+    background-attachment: fixed;
+    /* background-size: cover; */
+}
+p {
+    color: lightgrey;
+    /* top right bottom left */
+    padding: 20px 0px 0px 20px;
+}
+h1 {
+    color: rgb(240, 248, 122);
+}
+header {
+    background: rgb(180, 186, 187, 0.5);
+    width: 15%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px black;
+    border-style: solid dotted double;
+}
+header h1 {
+    color: darksalmon;
+}
